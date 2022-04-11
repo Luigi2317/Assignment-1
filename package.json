@@ -4,7 +4,7 @@
   "description": "this is my package.json",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -14,6 +14,5 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.3"
-  },
-  "devDependencies": {}
+  }
 }
